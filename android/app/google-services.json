@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "356040299637",
+    "project_id": "sniff-social",
+    "storage_bucket": "sniff-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356040299637:android:6aac4805eaec84b37b143c",
+        "android_client_info": {
+          "package_name": "com.arisesoft.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356040299637-3d1179b0tsnhng6me6t1hec0jhc01cgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arisesoft.sniffsocial",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "356040299637-e87ed580oa4h963hkhmj4ds0qvastogc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM5QTHEN7vSJMckDv8t5fFvihKj_MyAgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356040299637-e87ed580oa4h963hkhmj4ds0qvastogc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356040299637-a66fper24nu2mfc9ilqgtpmfnineutnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arisesoft.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

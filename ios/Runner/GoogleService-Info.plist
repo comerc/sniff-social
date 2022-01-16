@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>356040299637-a66fper24nu2mfc9ilqgtpmfnineutnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.356040299637-a66fper24nu2mfc9ilqgtpmfnineutnh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>356040299637-3d1179b0tsnhng6me6t1hec0jhc01cgg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSLTxpHMZNPZRRoJ2HaSHpImLvpMj7KeY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>356040299637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arisesoft.sniffsocial</string>
+	<key>PROJECT_ID</key>
+	<string>sniff-social</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sniff-social.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:356040299637:ios:0e055291e87111667b143c</string>
+</dict>
+</plist>
